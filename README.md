@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Project is made for may Software Design Pattern Lab Project. The Social Media Web platform, **OTJS**, is a scalable application that allows users to interact through posts, likes, and real-time updates. Built with **React**, **TypeScript**, **Tailwind CSS**, and **Appwrite**, OTJS provides a seamless, responsive, and modern user experience.
+This Project is made for my Software Design Pattern Lab Project. The Social Media Web platform, **OTJS**, is a scalable application that allows users to interact through posts, likes, and real-time updates. Built with **React**, **TypeScript**, **Tailwind CSS**, and **Appwrite**, OTJS provides a seamless, responsive, and modern user experience.
 
 ---
 
